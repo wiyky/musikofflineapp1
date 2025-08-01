@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">musikofflineapp</string>
+    <string name="desc_prev">Sebelumnya</string>
+    <string name="desc_play">Putar Lagu</string>
+    <string name="desc_pause">Jeda Lagu</string>
+    <string name="desc_next">Lagu Selanjutnya</string>
+    <string name="desc_repeat">Ulangi Lagu</string>
+</resources>
